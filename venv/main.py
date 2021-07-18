@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# some shitty code to play with stt / tts
+
 import os
 import speech_recognition as sr
 import subprocess
